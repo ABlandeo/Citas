@@ -1,3 +1,23 @@
 .caja{
-    box-shadow: 10px 10py #d1d3d4;
+    box-shadow: 5px 5px 10px #d1d3d4;
+    height: 250px;
+    width: 200px;
+}
+.centro{
+
+}
+.entradas{
+    border-color: #004ba6;
+    box-shadow: 2px 2px 1px #e6e6e6;
+    border-radius: 4px;
+}
+   
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.button{
+    background-color: #004ba6;
+    color: #f4f4f4;
+    font-weight: 800 ;
 }
