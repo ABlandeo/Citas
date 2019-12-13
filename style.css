@@ -17,7 +17,16 @@
 }
 
 .button{
+    background-color: transparent;
+    color: #004ba6;
+    font-weight: 800 ;
+    border-style: solid;
+    border-color: #004ba6;
+    padding: 10px;
+    margin: 20px;
+    
+}
+.button:hover{
     background-color: #004ba6;
     color: #f4f4f4;
-    font-weight: 800 ;
 }
